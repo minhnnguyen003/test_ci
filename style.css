@@ -1,0 +1,86 @@
+html {
+    background-color: goldenrod;
+}
+.top_nav {
+    position: fixed;
+    top: 0;
+    display: block;
+    padding-right: 5%;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+
+.nav_el {
+    padding: 3%;
+    float: right;
+}
+
+.nav_el :hover {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center !important;
+    font-weight: bold;
+}
+.nav_el a {
+    padding: 2%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.about {
+    padding-left: 43%;
+    padding-right: 35%;
+    padding-top: 30%;
+}
+
+.prj h1{
+    padding-left: 43%;
+    padding-right: 35%;
+    padding-top: 30%;
+    align-content: center;
+}
+
+h1 {
+    color: white;
+}
+
+.prj_disp {
+    padding-left: 15%;
+}
+
+#prj1 {
+    float: left;
+    padding: 8%;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+img {
+    width: 20rem;
+}
+
+.ct {
+    padding-left: 43%;
+    padding-right: 35%;
+    padding-top: 30%;
+}
+
+#fb 
+{
+    size: 3px
+}
+
+.ctdisp {
+    align-content: space-between;
+}
+
+a {
+    text-decoration: none;
+}

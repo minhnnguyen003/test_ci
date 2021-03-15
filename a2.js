@@ -47,6 +47,6 @@ function merge2String(str1, str2)
             scom[i*2+1] = str2[i];
         }
     }
-    console.log(scom);
-    alert(scom);
+    console.log(scom.join(''));
+    alert(scom.join(''));
 }
